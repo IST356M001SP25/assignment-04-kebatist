@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Katharine Batista
+Sudent Email:  kebatist@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,6 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+First to address this assignment. I thought that it was fairly simple and maybe more well explain than the past ones. Now that I know the more code you have (even if it does not work) the better the bot understands your thought process is very helpful to me. As you'll see in the unibrow file I tested a few different methods including creating a cols variable within using the filing system. 
+
+I utlized copilot when creating the if file statement in unibrow.py. Whiel I did not think it was confusing, I used Copilot to example the code it did based off my writing multiple times. I learned 
